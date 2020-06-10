@@ -13,10 +13,9 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
+Selenium com python: (https://github.com/thiagouavbr/seleniumcompython)
 - Bulleted
 - List
 
