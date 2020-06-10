@@ -10,12 +10,12 @@ High-Tech Industry developer. Working with systems of new technologies, accounta
 
 Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 
-```markdown
-Syntax highlighted code block
-
 ### Projects
 
 Selenium com python: (https://github.com/thiagouavbr/seleniumcompython)
+
+```markdown
+Syntax highlighted code block
 - Bulleted
 - List
 
