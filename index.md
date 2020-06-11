@@ -11,7 +11,8 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 ### Projects
 
 Selenium com python: (https://github.com/thiagouavbr/seleniumcompython)
-This project is a result for the clases on Live de Python [Material](https://github.com/dunossauro/curso-python-selenium).
+
+This project is a result for the clases on Live de Python: [Material](https://github.com/dunossauro/curso-python-selenium).
 
 ```markdown
 Syntax highlighted code block
