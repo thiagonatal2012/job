@@ -10,7 +10,7 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 
 ### Projects
 
-Selenium com python: (https://github.com/thiagouavbr/seleniumcompython)
+Selenium com python: [Currency cotation project](https://github.com/thiagouavbr/seleniumcompython)
 
 This project is a result for the clases on Live de Python: [Material](https://github.com/dunossauro/curso-python-selenium).
 
