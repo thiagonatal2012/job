@@ -13,3 +13,7 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 - Selenium com python: [Currency cotation project](https://github.com/thiagouavbr/seleniumcompython)
 
 This project is a result for the clases on Live de Python: [Material](https://github.com/dunossauro/curso-python-selenium).
+
+- Selenium Python - Step by Step for Beginners with Framework (https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/)
+
+  * https://github.com/thiagouavbr/Selenium-Udemy/blob/master/README.md
