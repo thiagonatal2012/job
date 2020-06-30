@@ -14,5 +14,5 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
  
   * [Currency cotation project](https://github.com/thiagouavbr/seleniumcompython): This project is a result for the clases on Live de Python: [Material](https://github.com/dunossauro/curso-python-selenium).
 
-- [Selenium-Udemy](https://github.com/thiagouavbr/Selenium-Udemy/blob/master/README.md) This project is result of the lessons Step by Step for Beginners with Framework (https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/)
+  * [Selenium-Udemy](https://github.com/thiagouavbr/Selenium-Udemy/blob/master/README.md) This project is result of the lessons Step by Step for Beginners with Framework (https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/)
   
