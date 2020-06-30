@@ -19,7 +19,7 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
   
 - Python + Pytest + Selenium + Allure
 
-  * [Selenium-Udemy](https://github.com/thiagouavbr/Selenium-Udemy): This is a set of projects, result of the lessons [Step by Step for Beginners with Framework](https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/). Read more about [here](https://github.com/thiagouavbr/Selenium-Udemy/blob/master/README.md).
+  * [Selenium-Udemy](https://github.com/thiagouavbr/Selenium-Udemy): This is a set of projects, result of the lessons [Step by Step for Beginners with Framework](https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/).
 
 - Python + Wordcloud
 
