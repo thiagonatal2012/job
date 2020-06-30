@@ -10,7 +10,7 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 
 ### Projects
 
-- Teste de Software
+- Softwaren Test
 
   * [Introdução ao teste de Software](https://www.coursera.org/learn/intro-teste-de-software?): This project reviews and levels the knowledge in software testing and concludes with a project report in order to plan and apply the main techniques, criteria and testing tools in various domains and types of software
 
