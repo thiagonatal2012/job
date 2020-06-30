@@ -22,3 +22,7 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 - Python + Pytest + Selenium + Allure
 
   * [Selenium-Udemy](https://github.com/thiagouavbr/Selenium-Udemy/blob/master/README.md): This project is result of the lessons [Step by Step for Beginners with Framework](https://www.udemy.com/course/selenium-python-step-by-step-for-beginners/).
+
+- Python + Wordcloud
+
+  * [Whatsapp WordCloud](https://github.com/thiagouavbr/test-wordcloud): First version of python + wordcloud for whatsapp conversations resume image. The input file for conversations sample is entrada.txt The stopwords can be added on wordcloud-test.py.
