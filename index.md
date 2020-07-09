@@ -27,4 +27,4 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 
 - Java + Selenium + Cucumber
 
-  * [QArentena Exercices](https://github.com/thiagouavbr/firstCucumberJava): First version of exercice from [Qarentena lessons](https://www.youtube.com/watch?v=sIelXbbDzmM) using Java + Selenium + Cucumber for verification of some construction on the [Iterasys website](https://iterasys.com.br/).
+  * [QArentena Exercices](https://github.com/thiagouavbr/firstCucumberJava): First version of exercice from [Qarentena lessons](https://youtu.be/sIelXbbDzmM) using Java + Selenium + Cucumber for verification of some construction on the [Iterasys website](https://iterasys.com.br/).
