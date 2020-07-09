@@ -24,3 +24,7 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 - Python + Wordcloud
 
   * [Whatsapp WordCloud](https://github.com/thiagouavbr/test-wordcloud): First version of python + wordcloud for whatsapp conversations resume image. The input file for conversations sample is entrada.txt The stopwords can be added on wordcloud-test.py.
+
+- Java + Selenium + Cucumber
+
+  * [QArentena Exercices](https://github.com/thiagouavbr/firstCucumberJava): First version of exercice from [Qarentena lessons](https://www.youtube.com/watch?v=sIelXbbDzmM) using Java + Selenium + Cucumber for verification of some construction on the [Iterasys website](https://iterasys.com.br/).
