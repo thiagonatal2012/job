@@ -33,16 +33,4 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 
   * [Bootcamp Online - Desenvolvedor Full Stack](https://github.com/thiagouavbr/bootcamp-igti-full-stack):
   
-   Chalenge 1:
-
-      Goals
-      Exercise the following concepts worked on in the Module:
-      - Declaring HTML elements such as titles, input, div, span, ul, li, etc.
-      - Style the app with CSS.
-      - Map DOM elements to be manipulated with JavaScript.
-      - Format values with JavaScript.
-      - Perform various calculations with array methods such as map, filter and reduce.
-      -  Make HTTP requests with the command fetch;
-
-      Statement
-      Create an application to filter users and show statistics from the defined filter.
+   [Chalenge 1](https://github.com/thiagouavbr/bootcamp-igti-full-stack/tree/master/desafio1): The detailed instructions can be founded on [description](https://github.com/thiagouavbr/bootcamp-igti-full-stack/blob/master/desafio1/readme.md).
