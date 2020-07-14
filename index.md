@@ -28,3 +28,21 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 - Java + Selenium + Cucumber
 
   * [QArentena Exercices](https://github.com/thiagouavbr/firstCucumberJava): First version of exercice from [Qarentena lessons](https://youtu.be/sIelXbbDzmM) using Java + Selenium + Cucumber for verification of some construction on the [Iterasys website](https://iterasys.com.br/).
+  
+- Full Stack (Java Script + html5 + css)
+
+  * [Bootcamp Online - Desenvolvedor Full Stack](https://github.com/thiagouavbr/bootcamp-igti-full-stack):
+  
+   Chalenge 1:
+
+      Goals
+      Exercise the following concepts worked on in the Module:
+      - Declaring HTML elements such as titles, input, div, span, ul, li, etc.
+      - Style the app with CSS.
+      - Map DOM elements to be manipulated with JavaScript.
+      - Format values with JavaScript.
+      - Perform various calculations with array methods such as map, filter and reduce.
+      -  Make HTTP requests with the command fetch;
+
+      Statement
+      Create an application to filter users and show statistics from the defined filter.
