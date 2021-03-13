@@ -12,6 +12,8 @@ Linkedin: [linkedin](https://www.linkedin.com/in/thiagouavbr/)
 
   * [Introdução ao teste de Software](https://github.com/thiagouavbr/seleniumcompython/blob/master/Final-Atividade-de-Teste-de-Software.doc): This project reviews and levels the knowledge in software testing and concludes with a project report in order to plan and apply the main techniques, criteria and testing tools in various domains and types of software
 
+  * [JavaScript Testing - Unit Tests, Integration Tests & e2e Tests](https://github.com/thiagouavbr/js-testing-introduction): This project introduce the software testing concepts for unit, integration and e2e tests using Jest, Pupeteer
+
 - Python + Selenium
  
   * [Currency cotation project](https://github.com/thiagouavbr/seleniumcompython): This project is a result for the clases on Live de Python: [Material](https://github.com/dunossauro/curso-python-selenium). The objective is check the currency and according to some input criteria, send notifications through whatsapp message.
